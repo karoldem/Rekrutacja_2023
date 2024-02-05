@@ -1,5 +1,5 @@
 # Competition I took part in once.
-I present my humble project I send to competition described below.
+I present my humble project I sent to competition described below.
 
 # 
 
