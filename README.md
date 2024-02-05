@@ -1,6 +1,8 @@
 ## 🚀🌌 Inspire us with your data analysis skills! 🚀🌌
 ### Have you ever dreamed of traveling aboard a spaceship?
 
+<img align="right" width="350px" src="https://github.com/Kolo-Naukowe-Data-Science-PW/Rekrutacja_2023/assets/30211831/ff323ce0-005a-400c-ae5e-c794e6d00081" />
+
 🚢Whether you are passionate about life sciences or a fan of sci-fi movies, we have a unique recruitment task for you to join our club! 📊📈 Your task is to explore, analyze and draw valuable conclusions from the "Spaceship Titanic" dataset. 🛸🌠 You need to discover as many interesting statistics and relationships between passenger characteristics as possible. You also need to visualize everything in graphs to further illustrate their nature, and then convincingly present and justify your conclusions. 💡📊
 
 But it doesn't stop there! If you get even more curious and feel like using your analysis more broadly, a machine learning model predicting whether or not a particular passenger has been transported to another dimension would be welcome. 🤖🌌
