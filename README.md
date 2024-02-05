@@ -1,3 +1,8 @@
+# Competition I took part in once.
+I present my humble project I send to competition described below.
+
+# 
+
 ## 🚀🌌 Inspire us with your data analysis skills! 🚀🌌
 ### Have you ever dreamed of traveling aboard a spaceship?
 
